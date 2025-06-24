@@ -1,0 +1,5 @@
+site_name: Mk 1st
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
